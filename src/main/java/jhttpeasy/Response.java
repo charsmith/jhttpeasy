@@ -1,4 +1,4 @@
-package org.charsmith.jhttpeasy;
+package jhttpeasy;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
